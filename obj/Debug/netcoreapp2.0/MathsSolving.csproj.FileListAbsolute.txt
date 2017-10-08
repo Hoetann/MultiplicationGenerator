@@ -1,0 +1,10 @@
+C:\Users\Lachlan\MathsSolving\obj\Debug\netcoreapp2.0\MathsSolving.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\MathsSolving\obj\Debug\netcoreapp2.0\MathsSolving.AssemblyInfoInputs.cache
+C:\Users\Lachlan\MathsSolving\obj\Debug\netcoreapp2.0\MathsSolving.AssemblyInfo.cs
+C:\Users\Lachlan\MathsSolving\bin\Debug\netcoreapp2.0\MathsSolving.deps.json
+C:\Users\Lachlan\MathsSolving\bin\Debug\netcoreapp2.0\MathsSolving.runtimeconfig.json
+C:\Users\Lachlan\MathsSolving\bin\Debug\netcoreapp2.0\MathsSolving.runtimeconfig.dev.json
+C:\Users\Lachlan\MathsSolving\bin\Debug\netcoreapp2.0\MathsSolving.dll
+C:\Users\Lachlan\MathsSolving\bin\Debug\netcoreapp2.0\MathsSolving.pdb
+C:\Users\Lachlan\MathsSolving\obj\Debug\netcoreapp2.0\MathsSolving.dll
+C:\Users\Lachlan\MathsSolving\obj\Debug\netcoreapp2.0\MathsSolving.pdb
